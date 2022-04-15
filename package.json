@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "start": "node app.js",
+    "inspect": "node --inspect app.js"
+  },
   "dependencies": {
     "express": "^4.17.3"
   }
